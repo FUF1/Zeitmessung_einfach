@@ -1,3 +1,6 @@
+
+> Diese Seite bei [https://fuf1.github.io/Zeitmessung_einfach/]([https://fuf1.github.io/Zeitmessung_Making-Workshop/](https://fuf1.github.io/Zeitmessung_einfach/) öffnen
+
 ## Als Erweiterung verwenden
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
