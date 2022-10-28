@@ -1,15 +1,3 @@
-
-> Diese Seite bei [https://fuf1.github.io/Zeitmessung_einfach/](https://fuf1.github.io/Zeitmessung_einfach/) öffnen
-
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/fuf1/zeitmessung_einfach** suchen und importieren
-
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/fuf1/zeitmessung_einfach/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
