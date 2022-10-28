@@ -1,5 +1,6 @@
 {
     "name": "Zeitmessung_einfach",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
