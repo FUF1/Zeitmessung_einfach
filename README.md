@@ -1,4 +1,5 @@
-## Dieses Projekt in MakeCode importieren:
+## Um dieses Repository in MakeCode zu bearbeiten:
+
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/fuf1/zeitmessung_einfach** ein und klicke auf Importieren
